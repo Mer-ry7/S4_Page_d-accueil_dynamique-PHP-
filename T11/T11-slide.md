@@ -7,7 +7,7 @@
 
 ## Synthèse de ma veille technologique
 
-- **Définition en une phrase :** La modularité et la gestion par fonctions en PHP permettent de structurer le code en composants autonomes et réutilisables, centralisant ainsi la logique pour bannir les redondances.
+- **Définition en une phrase :** La modularite et la gestion par fonctions en PHP permettent de structurer le code en composants autonomes et réutilisables, centralisant ainsi la logique pour bannir les redondances.
 
 - **Problème résolu pour le projet :** Recopier manuellement les mêmes blocs d'un fichier à l'autre alourdit la structure du projet Blog et multiplie les risques d'oublis ou d'anomalies lors des mises à jour.
 
