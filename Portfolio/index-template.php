@@ -36,6 +36,7 @@
             <h1>
                 Hi, I'm
                 <span><?= htmlspecialchars($nom) ?></span>
+                
             </h1>
 
             <p>
