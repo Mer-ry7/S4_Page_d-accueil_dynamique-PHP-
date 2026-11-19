@@ -1,0 +1,18 @@
+footer {
+    padding: 24px;
+    text-align: center;
+    background: white;
+    border-top: 1px solid #f3d3e3;
+}
+
+footer p {
+    margin: 0;
+}
+
+.bleu {
+    color: #2563eb; 
+}
+
+.rose {
+    color: #db2777;
+}

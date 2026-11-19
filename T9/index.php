@@ -23,7 +23,7 @@ $articles = [
 
 $categories = [
     ['id' => 1, 'libelle' => 'Développement'],
-    ['id' => 2, 'libelle' => 'Design UI/UX']
+    ['id' => 2, 'libelle' => 'Design UI/UX'],
 ];
 
 require 'index-template.php';
